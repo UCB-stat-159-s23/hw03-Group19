@@ -6,4 +6,4 @@ Ashwin Bindra: question 5(100%), 2, 3
 
 Tianyi Chen: question 4(100%), 2, 3
 
-Minghua Tan: question 1, 2
+Minghua Tan: question 1(100%), 2
